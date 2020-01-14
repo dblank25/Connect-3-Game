@@ -1,4 +1,4 @@
-Playing with Minimax + Alpha-Beta	Pruning
+Playing with Minimax + Alpha-Beta Pruning
 
 Main is in connect3.py
 To run from terminal: 
