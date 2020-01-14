@@ -1,4 +1,4 @@
-Extra Credit: Playing with Minimax + Alpha-Beta	Pruning
+Playing with Minimax + Alpha-Beta	Pruning
 
 Main is in connect3.py
 To run from terminal: 
@@ -8,7 +8,7 @@ sh run.sh random
 sh run.sh minimax
 sh run.sh alphabeta
 
-After timing both the minimax player and alpha-beta player on tux, we can conclude that the alpha-beta player takes
+After timing both the minimax player and alpha-beta player, we can conclude that the alpha-beta player takes
 significantly less time than the minimax player to decide on a move due to pruning.
 
 Here are the results of a sample game for each game (O is Minimax or alpha-beta player, X is always random player):
